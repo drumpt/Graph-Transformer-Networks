@@ -126,4 +126,4 @@ if __name__ == '__main__':
 
     # TODO 3 : Modify main.py to check which meta-paths are important
     ### --- Hint ---
-    ### Use Ws. You might refer to data_processing.ipynb to see 
+    ### Use Ws. You might refer to data_processing.ipynb to see which edge is which index.
