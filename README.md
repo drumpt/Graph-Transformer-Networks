@@ -40,7 +40,7 @@ Graph-Transformer-Network
 
 ## TODOs
 
-### TODO 1 : Fill in models.py
+### TODO 1 : Fill in models.py.
 
 ### TODO 2 : Run main.py with DBLP and ACM dataset using the commands and report the training curves and macro F1 scores.
 - DBLP
