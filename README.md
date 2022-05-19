@@ -41,15 +41,19 @@ Graph-Transformer-Network
 ## TODOs
 
 ### TODO 1 : Fill in models.py
-```
 - DBLP
 ```
 $ python main.py --dataset DBLP --num_layers 3
 ```
+
 - ACM
 ```
  $ python main.py --dataset ACM --num_layers 2 --adaptive_lr true
 ```
-```
 
-## TODOs
+### TODO 2 : Run main.py with DBLP and ACM dataset using the commands and report the training curves and macro F1 scores.
+
+
+
+### TODO 3 : Modify main.py to check which meta-paths are important in ACM dataset.
+- You might refer to data_preprocessing.ipynb to see which edge is which index.
